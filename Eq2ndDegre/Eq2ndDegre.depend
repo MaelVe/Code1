@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473846080 source:p:\2eme année\algoversc\eq2nddegre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
